@@ -154,13 +154,10 @@ nav {
     line-height: 1.5;
 }
 
-.app-store-badge img {
-    display: inline-block;
-    transition: opacity 0.2s;
-}
-
-.app-store-badge:hover img {
-    opacity: 0.85;
+.coming-soon {
+    font-size: 1.1rem;
+    color: var(--text-olive);
+    font-weight: 500;
 }
 
 /* Features Grid */
